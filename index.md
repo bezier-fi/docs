@@ -5,4 +5,4 @@ last-updated: 19/12/2022
 ---
 
 # Documentation
-Hello every to the Bezier Documentation
+Hello everyone to the Bezier Documentation
