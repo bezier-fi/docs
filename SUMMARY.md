@@ -1,16 +1,16 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 
 ## Product
+
 * [Payment](payment/index.md)
-    * [Crypto](payment/crypto.md)
-    * [Bank Card](payment/bank_card.md)
+  * [Crypto](payment/crypto.md)
+  * [Bank Card](payment/bank\_card.md)
 
 ## Developers
 
 * [API](developers/api.md)
-
 
 ## Brand
 
